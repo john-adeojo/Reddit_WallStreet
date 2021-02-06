@@ -1,6 +1,5 @@
 numpy==1.20.0
 pandas==1.0.5
-torch @ file:///C:/ci/pytorch_1596721630134/work
 sentence-transformers==0.4.1.2
 umap-learn==0.5.0
 hdbscan==0.8.27
